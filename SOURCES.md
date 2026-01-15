@@ -33,7 +33,7 @@ Configuration files and management:
 - `cex_config.json` - CEX verification configuration with asset information
 - `user_config.json` - User verification configuration template
 - `proof.csv` - Sample proof data
-- `.DS_Store` - macOS metadata file (should be excluded via .gitignore)
+- `.DS_Store` - macOS metadata file (excluded via .gitignore)
 
 ### example_data/
 Example datasets for testing:
