@@ -47,7 +47,7 @@ All imports use the module path `gate-zkmerkle-proof` as defined in `go.mod`.
 
 All imported files are covered by the repository's GPLv3 license:
 - Licensed under GPLv3 (see LICENSE file in repository root)
-- Original upstream copyright: Copyright 2023 © Gate Technology Inc.
+- Original upstream copyright: Copyright 2023 © Gate Technology Inc. (as stated in upstream README.md)
 
 ## Verification
 
