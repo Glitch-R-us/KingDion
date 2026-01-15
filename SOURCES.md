@@ -33,6 +33,7 @@ Configuration files and management:
 - `cex_config.json` - CEX verification configuration with asset information
 - `user_config.json` - User verification configuration template
 - `proof.csv` - Sample proof data
+- `.DS_Store` - macOS metadata file (should be excluded via .gitignore)
 
 ### example_data/
 Example datasets for testing:
@@ -44,13 +45,13 @@ All imports use the module path `gate-zkmerkle-proof` as defined in `go.mod`.
 
 ## License
 
-All imported files maintain their original copyright and license:
-- Copyright 2023 © Gate Technology Inc.
-- Licensed under GPLv3 (see LICENSE file)
+All imported files are covered by the repository's GPLv3 license:
+- Licensed under GPLv3 (see LICENSE file in repository root)
+- Original upstream copyright: Copyright 2023 © Gate Technology Inc.
 
 ## Verification
 
-The imported directories were verified to be byte-for-byte identical to the upstream repository as of the import date (January 2026).
+The imported directories were verified to be byte-for-byte identical to the upstream repository as of the verification date (January 15, 2026).
 
 Build verification:
 ```bash
